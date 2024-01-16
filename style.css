@@ -54,6 +54,7 @@ span {
 svg {
     border-radius: 15px;
     margin-top: 3%;
+    width: 90%;
 }
 
 h2:hover {
